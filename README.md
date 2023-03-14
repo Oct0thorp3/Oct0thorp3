@@ -1,4 +1,29 @@
-### Hi there 👋
+<h1>Hi, I'm Craig! <br/><a href="https://github.com/Oct0thorp3">Programmer</a>, <a href="https://www.linkedin.com/in/craig-kovalcheck//">Cybersecurity Professional</a>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Active Directory Home Lab</b>
+  - Placeholder
+
+- <b>SIEM Home Lab</b>
+  - Placeholder
+
+
+- <b>Python</b>
+  - [Python Scripts](https://github.com/Oct0thorp3/Python-scripts)
+
+- <b>Certifications</b>
+  - CompTIA Security+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="craig-kovalcheck| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **Oct0thorp3/Oct0thorp3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
