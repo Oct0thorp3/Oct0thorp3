@@ -6,7 +6,7 @@
   - [Honeypotlab](https://github.com/Oct0thorp3/Write-Ups/blob/main/Honeypotlab.pdf)
 
 - <b>SIEM Home Lab</b>
-  - Placeholder
+  - Placeholder -work in progress
 
 
 - <b>Python</b>
