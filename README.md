@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - Placeholder
+  - [Honeypotlab](https://github.com/Oct0thorp3/Write-Ups/blob/main/Honeypotlab.pdf)
 
 - <b>SIEM Home Lab</b>
   - Placeholder
