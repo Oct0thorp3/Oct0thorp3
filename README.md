@@ -1,4 +1,4 @@
-<h1>Hi, I'm Craig! <br/><a href="https://github.com/Oct0thorp3">Programmer</a>, <a href="https://www.linkedin.com/in/craig-kovalcheck//">Cybersecurity Professional</a>
+<h1>Hi, I'm Craig! <br/><a href="https://github.com/Oct0thorp3">Programmer</a>, <a href="https://www.linkedin.com/in/craig-kovalcheck//">IT/Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
